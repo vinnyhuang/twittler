@@ -63,6 +63,10 @@ div {
   font-size: 20px;
 }
 
+.username:hover {
+  text-decoration: underline;
+}
+
 button {
   position: absolute;
   left: 200px;
